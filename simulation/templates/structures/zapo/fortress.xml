@@ -14,6 +14,8 @@
   <ProductionQueue>
     <Entities datatype="tokens">
       units/{civ}/champion_swordsman
+      units/{civ}/mixtec_infantry
+      units/{civ}/otomi_infantry
     </Entities>
   </ProductionQueue>
   <VisualActor>

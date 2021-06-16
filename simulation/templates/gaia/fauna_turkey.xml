@@ -10,7 +10,7 @@
   <Identity>
     <GenericName>Trukey</GenericName>
     <SpecificName>Huaxolotl</SpecificName>
-    <Tooltip>mesoamerican domestic bird. Nota del creador: Que pedo con el nombre en ingles xd</Tooltip>
+    <Tooltip>Mesoamerican domestic bird.</Tooltip>
     <Icon>gaia/fauna_turkey.png</Icon>
   </Identity>
   <Obstruction>
@@ -20,7 +20,7 @@
     <Anchor>upright</Anchor>
   </Position>
   <ResourceSupply>
-    <Amount>40</Amount>
+    <Max>40</Max>
     <MaxGatherers>5</MaxGatherers>
   </ResourceSupply>
   <Sound>

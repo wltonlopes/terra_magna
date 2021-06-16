@@ -15,6 +15,7 @@
       -units/{civ}/siege_ballista_packed
       -units/{civ}/siege_tower
       units/{civ}/siege_ram
+      units/{civ}/infantry_incendiary
     </Entities>
     <Technologies datatype="tokens">
       -siege_bolt_accuracy
